@@ -53,7 +53,7 @@ function generatePassword() {
     // Else if for 4 negative options
     if (!confirmCharacter && !confirmNumber && !confirmUppercase && !confirmLowercase) {
         choices = alert("You must choose a at least 1 criteria!");
-        return;
+        return(textContent = "Your Secure Password");
     }
 
     // First if statement that uses user input prompts to determine choices
