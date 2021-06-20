@@ -12,7 +12,11 @@ SO THAT I can create a strong password that provides greater security
 ```
 ## Website Screen Shot
 
-><img src="Assets\Generate-password-screenshot.JPG" alt="Generate Password Website Screenshot">
+><img src="Assets\03-javascript-homework-demo.png" alt="Generate password website screenshot">
+
+> Once you click on "Generate Password" a pop up apears requesting you to fill in the information required to generate the password. 
+
+><img src="Assets\Generate-password-screenshot.JPG" alt="Generate password website after clicking button screenshot">
 
 ## Installation
 
